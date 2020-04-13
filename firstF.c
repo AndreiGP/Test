@@ -1,3 +1,3 @@
 // primul fisier
 // mod B active 
-// repetir
+// repetire
