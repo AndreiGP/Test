@@ -1,2 +1,2 @@
 // primul fisier
-// mod a
+// mod B active
